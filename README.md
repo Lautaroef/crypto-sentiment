@@ -1,4 +1,4 @@
-# CryptoCrowd
+# Crypto Twitter Sentiment
 
 Cryptocurrency sentiment analysis website based on Twitter posts. Stateless application that uses Elasticache and S3 for persistence. 
 
